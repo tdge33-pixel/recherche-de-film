@@ -11,10 +11,10 @@ $articles = $stmt->fetchAll();
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <title>Mon Projet PHP</title>
+    <title>ce site web est pour voir des films</title>
 </head>
 <body>
-    <h1>Bienvenue sur mon site relié à MySQL</h1>
+    <h1>Bienvenue sur mon site relié à MySQL ghtttttt</h1>
 
     <ul>
         <?php foreach ($articles as $article): ?>

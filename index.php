@@ -11,7 +11,7 @@ $articles = $stmt->fetchAll();
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <title>ce site web est pour voir des films</title>
+    <title>ce site web est pour voir des films. Site fait par Théo et Camilo en co-auteur</title>
 </head>
 <body>
     <h1>Bienvenue sur mon site relié à MySQL ghtttttt</h1>
